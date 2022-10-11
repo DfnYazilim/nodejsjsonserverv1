@@ -1,0 +1,233 @@
+{
+  "productGroups": [
+    {
+      "name": "İçecekler",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Tekel Ürünleri"
+    },
+    {
+      "name": "Yiyecekler",
+      "id": 3
+    },
+    {
+      "name": "Grup 1",
+      "id": 4
+    },
+    {
+      "name": "Grup 2",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Kola",
+      "productGroupId": 1,
+      "price": 5.6,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Fanta",
+      "productGroupId": 1,
+      "price": 5.6
+    },
+    {
+      "id": 3,
+      "name": "Ayran",
+      "productGroupId": 1,
+      "price": 5.3
+    },
+    {
+      "id": 4,
+      "name": "Puro",
+      "productGroupId": 2,
+      "price": 25
+    },
+    {
+      "name": "Ürün 123",
+      "productGroupId": 5,
+      "price": 23,
+      "id": 5
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "amount": 1.5,
+      "priceRow": 5.6,
+      "date": "2022-10-11 11:09:00",
+      "productId": 1
+    },
+    {
+      "amount": 13,
+      "priceRow": 5.6,
+      "date": null,
+      "productId": 1,
+      "id": 2
+    },
+    {
+      "amount": 14,
+      "priceRow": 5.6,
+      "date": null,
+      "productId": 2,
+      "id": 3
+    },
+    {
+      "amount": 5,
+      "priceRow": 5.3,
+      "date": null,
+      "productId": 3,
+      "id": 4
+    },
+    {
+      "amount": 2,
+      "priceRow": 25,
+      "date": null,
+      "productId": 4,
+      "id": 5
+    },
+    {
+      "amount": 2,
+      "priceRow": 23,
+      "date": null,
+      "productId": 5,
+      "id": 6
+    },
+    {
+      "amount": 13,
+      "priceRow": 5.6,
+      "date": "2022-10-11T14:39:13.910865",
+      "productId": 1,
+      "id": 7
+    },
+    {
+      "amount": 14,
+      "priceRow": 5.6,
+      "date": "2022-10-11T14:39:13.929562",
+      "productId": 2,
+      "id": 8
+    },
+    {
+      "amount": 5,
+      "priceRow": 5.3,
+      "date": "2022-10-11T14:39:13.936237",
+      "productId": 3,
+      "id": 9
+    },
+    {
+      "amount": 2,
+      "priceRow": 25,
+      "date": "2022-10-11T14:39:13.941047",
+      "productId": 4,
+      "id": 10
+    },
+    {
+      "amount": 2,
+      "priceRow": 23,
+      "date": "2022-10-11T14:39:13.946052",
+      "productId": 5,
+      "id": 11
+    },
+    {
+      "amount": 13,
+      "priceRow": 5.6,
+      "date": "2022-10-11T14:40:44.624730",
+      "productId": 1,
+      "id": 12
+    },
+    {
+      "amount": 14,
+      "priceRow": 5.6,
+      "date": "2022-10-11T14:40:44.639740",
+      "productId": 2,
+      "id": 13
+    },
+    {
+      "amount": 5,
+      "priceRow": 5.3,
+      "date": "2022-10-11T14:40:44.648388",
+      "productId": 3,
+      "id": 14
+    },
+    {
+      "amount": 2,
+      "priceRow": 25,
+      "date": "2022-10-11T14:40:44.655900",
+      "productId": 4,
+      "id": 15
+    },
+    {
+      "amount": 2,
+      "priceRow": 23,
+      "date": "2022-10-11T14:40:44.662966",
+      "productId": 5,
+      "id": 16
+    },
+    {
+      "amount": 3,
+      "priceRow": 5.3,
+      "date": "2022-10-11T14:40:48.638727",
+      "productId": 3,
+      "id": 17
+    },
+    {
+      "amount": 2,
+      "priceRow": 25,
+      "date": "2022-10-11T14:40:48.688070",
+      "productId": 4,
+      "id": 18
+    },
+    {
+      "amount": 1,
+      "priceRow": 23,
+      "date": "2022-10-11T14:40:48.693983",
+      "productId": 5,
+      "id": 19
+    },
+    {
+      "amount": 2,
+      "priceRow": 5.6,
+      "date": "2022-10-11T14:40:48.698761",
+      "productId": 2,
+      "id": 20
+    },
+    {
+      "amount": 2,
+      "priceRow": 5.6,
+      "date": "2022-10-11T14:40:51.838892",
+      "productId": 1,
+      "id": 21
+    },
+    {
+      "amount": 3,
+      "priceRow": 5.6,
+      "date": "2022-10-11T14:40:51.851078",
+      "productId": 2,
+      "id": 22
+    },
+    {
+      "amount": 2,
+      "priceRow": 23,
+      "date": "2022-10-11T14:40:51.859663",
+      "productId": 5,
+      "id": 23
+    },
+    {
+      "amount": 5,
+      "priceRow": 23,
+      "date": "2022-10-11T14:40:54.932187",
+      "productId": 5,
+      "id": 24
+    },
+    {
+      "amount": 4,
+      "priceRow": 25,
+      "date": "2022-10-11T14:40:54.950295",
+      "productId": 4,
+      "id": 25
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "comments": [
+    {
+      "body": "qweqwe",
+      "postId": 2,
+      "id": 6
+    },
+    {
+      "body": "qweqwe",
+      "postId": 2,
+      "id": 7
+    },
+    {
+      "body": "askljhdgasd",
+      "postId": 2,
+      "id": 8
+    },
+    {
+      "body": "cmm",
+      "postId": 2,
+      "id": 9
+    },
+    {
+      "body": "qweqwe",
+      "postId": 2,
+      "id": 10
+    },
+    {
+      "body": "qeqwe",
+      "postId": 3,
+      "id": 11
+    },
+    {
+      "body": "asdasd",
+      "postId": 3,
+      "id": 12
+    },
+    {
+      "body": "qweqwewqe",
+      "postId": 3,
+      "id": 13
+    }
+  ],
+  "posts": [
+    {
+      "id": 2,
+      "title": "json-2qeweq",
+      "author": "typicode2"
+    },
+    {
+      "title": "denem 123123",
+      "author": "123123",
+      "id": 3
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "123",
+      "lastname": "123"
+    },
+    {
+      "name": "Utku",
+      "lastname": "Kapoğlu",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
